@@ -1,12 +1,3 @@
-/* AUTHOR: Brandon Collins
-   USER ID: blc0063
-   FILE NAME: project1_Collins_blc0063.cpp
-   VERSION: 1/31/2024
-   // compile using g++ project1_Collins_blc0063.cpp
-   // run ./a.out
- */
-
-
 #include <iostream>
 using namespace std;
 
