@@ -1,11 +1,3 @@
-/* AUTHOR: Brandon Collins
-   USER ID: blc0063
-   FILE NAME: project4_Collins_blc0063.cpp
-   VERSION: 3/27/2024
-   // compile using g++ project4_Collins_blc0063.cpp
-   // run ./a.out
- */
-
 #include <iostream>
 #include <assert.h>
 //#include <string>
